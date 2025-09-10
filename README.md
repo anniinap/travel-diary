@@ -10,3 +10,8 @@ Sovelluksessa on käytetty:
 - **Google Maps JavaScript API** kartan luomiseen
 - **Google Places API** matkakohteiden hakemiseen
 - **Autocomplete-widgettiä**, joka helpottaa käyttäjän syötteen täydentämistä hakukentässä.
+
+## Live-demo
+
+Katso projektin toimiva versio tästä:  
+[🌐 Matkapäiväkirja](https://anniinap.github.io/travel-diary/ "Tutustu matkapäiväkirjaani")
